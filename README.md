@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 🚀 Learning Full Stack Web Development
 --------------------------------------
 
-* 🌍  I'm based in HCm, City
+* 🌍  I'm based in HCM, City
 * ✉️  You can contact me at [maithaituan129@gmail.com](mailto:maithaituan129@gmail.com)
 
 <a href="https://www.github.com/tuan129" target="_blank" rel="noreferrer"><img
