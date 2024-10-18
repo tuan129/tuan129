@@ -1,3 +1,29 @@
+<div id="header" align="center">
+  <img src="/image.webp" alt="bg" width="100%"/>
+</div>  
+<h1 align="center" >
+  <div>🧑‍💻About me</div> 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a align="center" href="https://www.facebook.com/t.t.t4t"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=41C375&width=435&lines=Coder++%2F+Developer;Web+Developer;%F0%9F%94%A5Foward+to+Full-Stack+Developer" alt="Typing SVG" /></a>
+</h1>
+<div id="header" align="center">
+  <!-- <kbd><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="this slowpoke moves" width="100"/></kbd><br><br> -->
+  <kbd><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tsszeyy7cbfka7lhcaxpgw3a4u&cover_image=true&theme=novatorem&bar_color=74a7fe&bar_color_cover=false" /></kbd>
+</div>  
+
+  ![](https://komarev.com/ghpvc/?username=dd4tj)
+   <!-- ʇɐᗡ uɐɹ⊥-->
+```js
+const Introduce = {    
+  name: "Thai Tuan🌝",  
+  description: "Backend Web developer",
+  skills: {
+    basic: ["reactjs", "Html", "Css", "javascript"],
+    advanced: ["nodejs", "express", "mongodb", "mysql"], 
+  },
+  favourites: ["listen to music", "watch film", "play game", "play football"]
+}
+```
+###
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mai Thai Tuan
 =====================================================================================================================================
 🚀 I Want To Become a Full Stack Web Development
