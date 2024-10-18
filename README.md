@@ -45,6 +45,17 @@ src="https://img.shields.io/github/followers/tuan129?logo=github&style=for-the-b
 
 <h1 align="left">📊 GitHub Stats:</h1>
 
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=5001&pause=1000&color=CE4257&center=true&vCenter=true&width=480&lines=Coder+%2F+Developer;Forward+to+full-stack+dev;Go+further+by+becoming+a+solution+architect;Or+project+manager;Reach+me+via+email+or+facebook!" alt="Typing SVG" /></a>
+</p>
+
+<div align="center">
+  <img height="170em" src="https://gh-readme-profile.vercel.app/api?username=tuan129&theme=sunset-gradient">
+  <img height="170em" src="https://streak-stats.demolab.com?user=tuan129&theme=sunset-gradient" alt="GitHub Streak" />
+</div>
+--------------------------------------------------
+
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=tuan129&hide_border=false&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=a6da95&include_all_commits=true&count_private=true">
   <img height="165em" src="https://streak-stats.demolab.com?user=tuan129&theme=catppuccin-macchiato" alt="GitHub Streak" />
