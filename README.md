@@ -1,6 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mai Thai Tuan
 =====================================================================================================================================
-
+const Introduce = {    
+  name: "Tuan🌝",  
+  description: "Backend Web developer",
+  skills: {
+    basic: ["reactjs", "html", "css", "javascript"],
+    advanced: ["nodejs", "express", "mongodb", "mysql"], 
+  },
+  favourites: ["listen to music", "watch film", "play game"]
+}
 🚀 I Want To Become a Full Stack Web Development
 --------------------------------------
 
