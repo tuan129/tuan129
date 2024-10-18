@@ -50,3 +50,11 @@ src="https://img.shields.io/github/followers/tuan129?logo=github&style=for-the-b
 <a href="http://www.github.com/tuan129"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tuan129&stroke=ffffff&background=312e81&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/tuan129" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuan129&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=10b981&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+<br>
+
+
+<footer align="center">
+  <img align="center" alt="colored-waving" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer" style="width: 100%;" />
+</footer>
