@@ -14,7 +14,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <kbd><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tsszeyy7cbfka7lhcaxpgw3a4u&cover_image=true&theme=novatorem&bar_color=74a7fe&bar_color_cover=false" /></kbd>
 </div>  
 
-  ![](https://komarev.com/ghpvc/?username=dd4tj)
+  ![](https://komarev.com/ghpvc/?username=tuan129)
    <!-- ʇɐᗡ uɐɹ⊥-->
 ```js
 const Introduce = {    
