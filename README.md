@@ -1,3 +1,7 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mai Thai Tuan
+=====================================================================================================================================
+🚀 I Want To Become a Full Stack Web Development
+--------------------------------------
 <div id="header" align="center">
   <img src="/image.webp" alt="bg" width="100%"/>
 </div>  
@@ -24,10 +28,6 @@ const Introduce = {
 }
 ```
 ###
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mai Thai Tuan
-=====================================================================================================================================
-🚀 I Want To Become a Full Stack Web Development
---------------------------------------
 
 * 🌍  I'm based in HCM, City
 * ✉️  You can contact me at [maithaituan129@gmail.com](mailto:maithaituan129@gmail.com)
