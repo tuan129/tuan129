@@ -54,12 +54,6 @@ src="https://img.shields.io/github/followers/tuan129?logo=github&style=for-the-b
   <img height="170em" src="https://gh-readme-profile.vercel.app/api?username=tuan129&theme=sunset-gradient">
   <img height="170em" src="https://streak-stats.demolab.com?user=tuan129&theme=sunset-gradient" alt="GitHub Streak" />
 </div>
---------------------------------------------------
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=tuan129&hide_border=false&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=a6da95&include_all_commits=true&count_private=true">
-  <img height="165em" src="https://streak-stats.demolab.com?user=tuan129&theme=catppuccin-macchiato" alt="GitHub Streak" />
-</div>
   
 <div align="center">  
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuan129&hide_border=false&hide_progress=true&include_all_commits=true&layout=compact&langs_count=6&count_private=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=a6da95">
