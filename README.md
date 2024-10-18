@@ -54,15 +54,6 @@ src="https://img.shields.io/github/followers/tuan129?logo=github&style=for-the-b
 <div align="center">  
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuan129&hide_border=false&hide_progress=true&include_all_commits=true&layout=compact&langs_count=6&count_private=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=a6da95">
 </div> 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=tuan129&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=a6da95"></div>
-
----------------------------------------------------------
-<a href="http://www.github.com/tuan129"><img src="https://github-readme-stats.vercel.app/api?username=tuan129&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=10b981&bg_color=312e81&hide_border=true&show_icons=true" alt="tuan129's GitHub stats" /></a>
-
-<a href="http://www.github.com/tuan129"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tuan129&stroke=ffffff&background=312e81&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/tuan129" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuan129&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=10b981&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 
 <br>
 
