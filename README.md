@@ -51,6 +51,8 @@ src="https://img.shields.io/github/followers/tuan129?logo=github&style=for-the-b
 </p>
 
 <div align="center">
+  
+  <img height="170em" src="https://gh-readme-profile.vercel.app/api?username=tuan129&theme=sunset-gradient">
   <img height="170em" src="https://streak-stats.demolab.com?user=tuan129&theme=sunset-gradient" alt="GitHub Streak" />
 </div>
   
