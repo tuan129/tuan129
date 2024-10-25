@@ -16,31 +16,51 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
   ![](https://komarev.com/ghpvc/?username=tuan129)
    <!-- ʇɐᗡ uɐɹ⊥-->
+   
+<h1 align="left">✏️ About me:</h1>
+
+* 🌍  I'm based in HCM, City
+* ⚡  I'm student of: [Ho Chi Minh City University of Foreign Languages and Information Technology](https://huflit.edu.vn/) (HUFLIT)
+* ✉️  You can contact me at [maithaituan129@gmail.com](mailto:maithaituan129@gmail.com)
+* 🌱  I’m currently learning a new JavaScript framework and Microservice 
+* 🤝  I'm open to collaborating on interesting JavaScript projects
 ```js
 const Introduce = {    
-  name: "Thai Tuan🌝",  
+  name: "Thai Tuan🌝",
   description: "Backend Web developer",
+  dream: "Fullstack Developer",
   skills: {
-    basic: ["reactjs", "Html", "Css", "javascript"],
-    advanced: ["nodejs", "express", "mongodb", "mysql"], 
+    basic: ["reactjs", "Html", "Css", "javascript",...],
+    advanced: ["nodejs", "express", "mongodb", "mysql",...], 
   },
   favourites: ["listen to music", "watch film", "play game", "play football"]
 }
 ```
 ###
 
-* 🌍  I'm based in HCM, City
-* ✉️  You can contact me at [maithaituan129@gmail.com](mailto:maithaituan129@gmail.com)
-* 🧠  I'm learning about NodeJS and ReactNative
-
 <a href="https://www.github.com/tuan129" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/tuan129?logo=github&style=for-the-badge&color=10b981&labelColor=312e81" /></a>
 <h1 align="left">💻 Languages and Tools:</h1>
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=js,cpp,java,html,css,sass,bootstrap,babel,webpack,figma,github,git,codepen,stackoverflow,firebase,mongodb,mysql,nodejs,express,react,vite,cloudflare,svg,vscode,androidstudio,powershell,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,cpp,html,css,sass,bootstrap,babel,webpack,github,git,mongodb,mysql,nodejs,express,react,vite,vscode,postman&theme=dark" />
 </p>  
 
-<h1 align="left">🌐 Connect with me:</h1>
+<picture align="center">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+<h1 align="left">🌐 Connect with me 📫:</h1>
 <p align="center"> <a href="https://discord.com/users/thaituan0912" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/profile.php?id=100049996103403&mibextid=ZbWKwL" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/tuan129" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/t.tuan0912" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/25412729/tuấn-thái" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a></p>
 
 <h1 align="left">📊 GitHub Stats:</h1>
@@ -51,7 +71,6 @@ src="https://img.shields.io/github/followers/tuan129?logo=github&style=for-the-b
 </p>
 
 <div align="center">
-  
   <img height="170em" src="https://gh-readme-profile.vercel.app/api?username=tuan129&theme=sunset-gradient">
   <img height="170em" src="https://streak-stats.demolab.com?user=tuan129&theme=sunset-gradient" alt="GitHub Streak" />
 </div>
@@ -61,7 +80,6 @@ src="https://img.shields.io/github/followers/tuan129?logo=github&style=for-the-b
 </div> 
 
 <br>
-
 
 <footer align="center">
   <img align="center" alt="colored-waving" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer" style="width: 100%;" />
